@@ -5,9 +5,9 @@ A lot of the data that you could be analyzing is unstructured data and contains 
 # Getting Started With Python’s NLTK
 
    ` - Tokenizing
-    - Filtering Stop Words
-    - Stemming
- - Tagging Parts of Speech
+     - Filtering Stop Words
+     - Stemming
+     - Tagging Parts of Speech
 Lemmatizing
 Chunking
 Chinking
