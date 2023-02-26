@@ -3,19 +3,18 @@
 
 A lot of the data that you could be analyzing is unstructured data and contains human-readable text. Before you can analyze that data programmatically, you first need to *preproces*s it
 # Getting Started With Python’s NLTK
-
-   ` - Tokenizing
-     -Filtering Stop Words
-     -Stemming
-     -Tagging Parts of Speech
-Lemmatizing
-Chunking
-Chinking
-Using Named Entity Recognition (NER)
-Getting Text to Analyze
-Using a Concordance
-Making a Dispersion Plot
-Making a Frequency Distribution
-Finding Collocations
-Conclusion
-Tweet Share Email`
+`
+  - Tokenizing
+   - Filtering Stop Words
+   - Stemming
+   - Tagging Parts of Speech
+   - Lemmatizing
+   - Chunking
+   - Chinking
+   - Using Named Entity Recognition (NER)
+   - Getting Text to Analyze
+   - Using a Concordance
+   - Making a Dispersion Plot
+   - Making a Frequency Distribution
+   - Finding Collocations
+`
