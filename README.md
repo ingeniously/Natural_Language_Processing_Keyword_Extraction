@@ -4,10 +4,10 @@
 A lot of the data that you could be analyzing is unstructured data and contains human-readable text. Before you can analyze that data programmatically, you first need to *preproces*s it
 # Getting Started With Python’s NLTK
 
-   ` - Tokenizing
-     - Filtering Stop Words
-     - Stemming
-     - Tagging Parts of Speech
+   ` -Tokenizing
+     -Filtering Stop Words
+     -Stemming
+     -Tagging Parts of Speech
 Lemmatizing
 Chunking
 Chinking
